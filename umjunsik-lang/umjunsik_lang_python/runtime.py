@@ -3,7 +3,7 @@ import sys
 
 class Umjunsik:
     def __init__(self):
-        self.data = [0]*256
+        self.data = [0] * 256
 
     def toNumber(self, code):
         tokens = code.split(' ')
@@ -34,12 +34,12 @@ class Umjunsik:
         if code == '':
             return None
         TYPE = self.type(code)
-        
+
         if TYPE == 'DEF':
             var, cmd = code.split('엄')
             self.data[var.count('어')] = self.toNumber(cmd)
         elif TYPE == 'END':
-            print(self.toNumber(code.split('화이팅!')[1]), end='')
+            # 프로그램 종료만 수행
             sys.exit()
         elif TYPE == 'INPUT':
             self.data[code.replace('식?', '').count('어')] = int(input())
@@ -60,7 +60,7 @@ class Umjunsik:
         recode = ''
         spliter = '\n' if '\n' in code else '~'
         code = code.rstrip().split(spliter)
-        if check and (code[0].replace(" ","") != '어떻게' or code[-1] != '이 사람이름이냐ㅋㅋ' or not code[0].startswith('어떻게')):
+        if check and (code[0].replace(" ", "") != '어떻게' or code[-1] != '이 사람이름이냐ㅋㅋ' or not code[0].startswith('어떻게')):
             raise SyntaxError('어떻게 이게 엄랭이냐!')
         index = 0
         error = 0
@@ -70,9 +70,9 @@ class Umjunsik:
             res = self.compileLine(c)
             if jun:
                 jun = False
-                code[index] = recode                
+                code[index] = recode
             if isinstance(res, int):
-                index = res-2
+                index = res - 2
             if isinstance(res, str):
                 recode = code[index]
                 code[index] = res
@@ -82,7 +82,7 @@ class Umjunsik:
             index += 1
             error += 1
             if error == errors:
-                raise RecursionError(str(errorline+1) + '번째 줄에서 무한 루프가 감지되었습니다.')
+                raise RecursionError(str(errorline + 1) + '번째 줄에서 무한 루프가 감지되었습니다.')
 
     def compilePath(self, path):
         with open(path) as file:
