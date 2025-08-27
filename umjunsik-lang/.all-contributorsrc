@@ -1,0 +1,255 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "cstria0106",
+      "name": "goorm",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/11474150?v=4",
+      "profile": "https://github.com/cstria0106",
+      "contributions": [
+        "platform"
+      ]
+    },
+    {
+      "login": "pl-Steve28-lq",
+      "name": "Steve28",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/64412954?v=4",
+      "profile": "https://github.com/pl-Steve28-lq",
+      "contributions": [
+        "platform"
+      ]
+    },
+    {
+      "login": "pmh-only",
+      "name": "PMH",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/39158228?v=4",
+      "profile": "https://trinets.xyz",
+      "contributions": [
+        "platform"
+      ]
+    },
+    {
+      "login": "AkiaCode",
+      "name": "Aki",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/71239005?v=4",
+      "profile": "https://github.com/AkiaCode",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Tim232",
+      "name": "Tim232",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/64291996?v=4",
+      "profile": "https://info.tim23.me",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Ign0reLee",
+      "name": "JeYoung",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46403849?v=4",
+      "profile": "https://github.com/Ign0reLee",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Rokr0k",
+      "name": "Rok",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35794170?v=4",
+      "profile": "http://rokr0k.tk",
+      "contributions": [
+        "platform"
+      ]
+    },
+    {
+      "login": "adp-study",
+      "name": "adp-study",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59760424?v=4",
+      "profile": "https://github.com/adp-study",
+      "contributions": [
+        "infra",
+        "bug"
+      ]
+    },
+    {
+      "login": "noname0310",
+      "name": "noname",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48761044?v=4",
+      "profile": "https://www.youtube.com/c/noname0310",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "TralocDheckoa",
+      "name": "TralocDheckoa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42158095?v=4",
+      "profile": "https://github.com/TralocDheckoa",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "sangchoo1201",
+      "name": "sangchoo1201",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75765800?v=4",
+      "profile": "https://github.com/sangchoo1201",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "shs3182ym",
+      "name": "Sukuna Shinmyoumaru",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56759376?v=4",
+      "profile": "http://warning.or.kr",
+      "contributions": [
+        "platform"
+      ]
+    },
+    {
+      "login": "alvin1007",
+      "name": "Yeong Jae Cho",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77112874?v=4",
+      "profile": "https://github.com/alvin1007",
+      "contributions": [
+        "platform"
+      ]
+    },
+    {
+      "login": "kiwiyou",
+      "name": "kiwiyou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12986388?v=4",
+      "profile": "http://kiwiyou.dev",
+      "contributions": [
+        "platform"
+      ]
+    },
+    {
+      "login": "kyle-seongwoo-jun",
+      "name": "Kyle Seongwoo Jun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16515307?v=4",
+      "profile": "https://seongxwoo.notion.site/Kyle-b49a1520f7ea4d5a86acedcf201129f6",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "sean9892",
+      "name": "Yubin Choi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46587635?v=4",
+      "profile": "https://github.com/sean9892",
+      "contributions": [
+        "example"
+      ]
+    },
+    {
+      "login": "Baekjoon",
+      "name": "Baekjoon Choi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/706317?v=4",
+      "profile": "https://www.acmicpc.net",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "EGGnmad",
+      "name": "ㅇㅂㅎ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93484785?v=4",
+      "profile": "https://eggnmad.com/info/",
+      "contributions": [
+        "example"
+      ]
+    },
+    {
+      "login": "pizzaroot",
+      "name": "pizzaroot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17989599?v=4",
+      "profile": "https://github.com/pizzaroot",
+      "contributions": [
+        "platform"
+      ]
+    },
+    {
+      "login": "depth221",
+      "name": "Dongha Hwang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22697167?v=4",
+      "profile": "https://luxurycoop.tistory.com/",
+      "contributions": [
+        "example",
+        "bug"
+      ]
+    },
+    {
+      "login": "PersesTitan",
+      "name": "PersesTitan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97427878?v=4",
+      "profile": "https://github.com/PersesTitan",
+      "contributions": [
+        "platform",
+        "bug"
+      ]
+    },
+    {
+      "login": "kongchu2",
+      "name": "JunHyeok Hong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48686444?v=4",
+      "profile": "http://codeup.kr/userinfo.php?user=qwerty5233",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "happy-spark",
+      "name": "happy-spark",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107300540?v=4",
+      "profile": "https://github.com/happy-spark",
+      "contributions": [
+        "example"
+      ]
+    },
+    {
+      "login": "kms0219kms",
+      "name": "Minsu Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67222970?v=4",
+      "profile": "https://sskate.me",
+      "contributions": [
+        "platform",
+        "design"
+      ]
+    },
+    {
+      "login": "jerryjungwh",
+      "name": "JerryJung",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16649567?v=4",
+      "profile": "https://www.youtube.com/@comgongbro",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Hiyabye",
+      "name": "Jihoon Lee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50550999?v=4",
+      "profile": "https://github.com/Hiyabye",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "umjunsik-lang",
+  "projectOwner": "rycont",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "commitConvention": "angular",
+  "commitType": "docs"
+}

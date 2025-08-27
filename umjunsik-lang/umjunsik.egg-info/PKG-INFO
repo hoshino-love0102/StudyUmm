@@ -1,0 +1,23 @@
+Metadata-Version: 2.4
+Name: umjunsik
+Version: 2.0.2
+Summary: 어떻게 엄준식이 언어이름이냐🤣
+Home-page: https://github.com/rycont/umjunsik-lang
+Author: rycont
+Author-email: rycont@outlook.kr
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: summary
